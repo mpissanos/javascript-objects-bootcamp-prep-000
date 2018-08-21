@@ -1,6 +1,6 @@
 var playlist = {'Every Time I Die' : 'New Black'}
 
-function updatePlaylist(playlist, name, title) {
-  playlist.name = title;
+function updatePlaylist(playlist, artistName, songTitle) {
+  playlist.artistName = 'songTitle';
   return playlist;
 }
